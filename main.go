@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/begmaroman/acme-dns-route53/cmd"
-	"github.com/begmaroman/acme-dns-route53/lambda"
+	"github.com/scottdear/acme-dns-route53/cmd"
+	"github.com/scottdear/acme-dns-route53/lambda"
 )
 
 // IsLambda contains true value if this tool uses by AWS Lambda
