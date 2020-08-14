@@ -1,4 +1,4 @@
-module github.com/begmaroman/acme-dns-route53
+module github.com/scottdear/acme-dns-route53
 
 go 1.12
 
